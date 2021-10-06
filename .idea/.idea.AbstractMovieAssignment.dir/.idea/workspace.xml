@@ -7,9 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13a30e67-a412-4975-90d1-b5d9a4d1e3d5" name="Changes" comment="added .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AbstractMovieAssignment.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AbstractMovieAssignment.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+    <list default="true" id="13a30e67-a412-4975-90d1-b5d9a4d1e3d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/AbstractMovieAssignment.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/AbstractMovieAssignment.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/AbstractMovieAssignment.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/AbstractMovieAssignment.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/AbstractMovieAssignment.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/AbstractMovieAssignment.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +69,7 @@
       <updated>1633375215437</updated>
       <workItem from="1633375231349" duration="1114000" />
       <workItem from="1633380812019" duration="661000" />
+      <workItem from="1633493725541" duration="68000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed file writing to show and video">
       <created>1633485291790</created>

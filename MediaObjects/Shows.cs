@@ -7,6 +7,13 @@ namespace AbstractMovieAssignment.MediaObjects
         [Name("season")] public int season { get; set; }
         [Name("episode")] public int episode { get; set; }
         [Name("writers")] public string writersString { get; set; }
+        private string[] writersArray{get;set;}
+
+        public string[] GenresArray()
+        {
+            writersArray = writersString.Split('|');
+            return writersArray;
+        }
         
 
         public override string Display()
