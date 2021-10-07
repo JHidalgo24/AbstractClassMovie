@@ -158,12 +158,9 @@ namespace AbstractMovieAssignment
                                 var formatTotals = Menu.ValueGetter();
                                 for (var i = 0; i < formatTotals; i++)
                                 {
-                                    Console.WriteLine($"Format #{i + 1}");
+                                    Console.WriteLine($"Format #{i + 1} Ex.DVD,Bluray,VHS");
                                     formats.Add(Console.ReadLine());
                                 }
-
-                                Console.WriteLine("What is the format of the video? Ex.DVD,Bluray,VHS");
-                                var format = Console.ReadLine();
                                 Console.WriteLine("How many minutes long is the video?");
                                 var length = Menu.ValueGetter();
                                 Console.WriteLine("How many regions is it in?");
@@ -178,7 +175,7 @@ namespace AbstractMovieAssignment
                                     regions.Add(Console.ReadLine());
                                 }
 
-                                CsvFileHelper.VideoAdd(id, title, string.Join('|', format), length,
+                                CsvFileHelper.VideoAdd(id, title, string.Join('|', formats), length,
                                     string.Join('|', regions));
                                 break;
                             }
