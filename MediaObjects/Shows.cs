@@ -9,7 +9,7 @@ namespace AbstractMovieAssignment.MediaObjects
         [Name("writers")] public string writersString { get; set; }
         private string[] writersArray{get;set;}
 
-        public string[] GenresArray()
+        public string[] writersArray()
         {
             writersArray = writersString.Split('|');
             return writersArray;
