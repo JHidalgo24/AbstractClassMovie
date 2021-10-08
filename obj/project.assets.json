@@ -6323,11 +6323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Movie\\AbstractMovieAssignment.csproj",
+      "projectUniqueName": "D:\\MovieAbstract\\AbstractMovieAssignment.csproj",
       "projectName": "AbstractMovieAssignment",
-      "projectPath": "D:\\Movie\\AbstractMovieAssignment.csproj",
+      "projectPath": "D:\\MovieAbstract\\AbstractMovieAssignment.csproj",
       "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-      "outputPath": "D:\\Movie\\obj\\",
+      "outputPath": "D:\\MovieAbstract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6388,6 +6388,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

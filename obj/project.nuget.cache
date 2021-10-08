@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "do8R9za9SRiIdRoiHd+GZ5lRpyXaOX4LbM/gndnIQ7TQ06ltXbrxRbA46u4Jr045TrXAKVD+lY6iWHOH3VT2PQ==",
+  "dgSpecHash": "0oVFEcnzyxCh+cyu5WGoTgAqAhlB9orKD+9pK1t6HsL8L94qosanmx517f0WfsI6fqzPgEpIJHXg/YaHWBgOAg==",
   "success": true,
-  "projectFilePath": "D:\\Movie\\AbstractMovieAssignment.csproj",
+  "projectFilePath": "D:\\MovieAbstract\\AbstractMovieAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\justi\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
